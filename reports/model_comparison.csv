@@ -1,0 +1,5 @@
+model,cv_accuracy,cv_macro_f1,cv_weighted_f1,cv_roc_auc_ovr,cv_high_risk_recall
+LogisticRegression,0.8275,0.8256,0.8271,0.9462,0.8638
+XGBoost,0.7817,0.7758,0.7825,0.9212,0.7197
+GradientBoosting,0.7758,0.7684,0.776,0.9154,0.7047
+RandomForest,0.7575,0.7548,0.7582,0.8959,0.7612
